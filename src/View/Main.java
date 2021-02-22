@@ -172,7 +172,7 @@ public class Main {
                                           continue startMenu;
                               }
                         } else if (userChoice == 4) {
-                              System.out.println("Quit");
+                              System.out.println("Logged out successfully");
                               break;
                         }
                   }
